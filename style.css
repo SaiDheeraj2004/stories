@@ -1,0 +1,52 @@
+.main-img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.main {
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px solid black;
+    background: linear-gradient(orange,white,green);
+    color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+.story1-img {
+    height: 500px;
+    width: 500px;
+    margin-right: 50%;
+    border-radius: 10%;
+
+}
+
+.iq {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-FJTxqWV9dT9KXlN5mZEVEMHcMmntwJxe1O9mj8k4fQ&s");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    margin-bottom: 100px;
+    color: aliceblue;
+    text-shadow: 5px 5px 5px brown;
+
+}
+
+.para {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.story {
+    background: radial-gradient(aqua,orange,green,aliceblue,gold,skyblue,red);
+}
